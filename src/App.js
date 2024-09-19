@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
+import Elephant from './Elephant.js';
 
 function App() {
   return (
