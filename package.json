@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://elephantatech.github.io/elephants_webpage"
+  "homepage": "https://elephantatech.github.io/elephants_webpage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
